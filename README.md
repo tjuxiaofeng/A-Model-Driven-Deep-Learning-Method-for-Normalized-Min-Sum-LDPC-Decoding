@@ -12,4 +12,4 @@ Generation_matrix.py: load LDPC_576_432.alist and LDPC_576_432.gamt to generate 
 
 *If you encounter problems during the use of the code, you can contact us through the following email address*
 - *wangq@tju.edu.cn*
-- *Shunfu Wang@tju.edu.cn*
+- *sf_wang@tju.edu.cn*
